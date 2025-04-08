@@ -1,5 +1,5 @@
 
-This projects helps prediction for loan approval for a customer based on below financial features:-
+This projects helps predict loan approval for a customer based on below financial features:-
 
 | Column Name       | Description                                       |
 | ----------------- | ------------------------------------------------- |
